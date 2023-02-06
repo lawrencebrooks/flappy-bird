@@ -35,4 +35,4 @@ Reading of code may cause your eyes to bleed. Quality tested by pressing spaceba
 
 ## Controls
 - `spacebar` for flapping and game start.
-- `enter` for 2 second no-clipping mode.
+- `enter` for 2 second invulnerability mode
