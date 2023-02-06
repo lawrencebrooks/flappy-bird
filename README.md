@@ -2,7 +2,7 @@
 A `JavaFX` implementation of Flabby Bird hacked together as part of a game jam.
 
 #### Disclaimer
-Reading of code may cause your eyes to bleed. Quality tested by pressing spacebar alot. Setup instructions below may or may not be accurate and complete. Tested on `MaxOS X64`
+Reading of code may cause your eyes to bleed. Quality tested by pressing spacebar alot. Setup instructions below may or may not be accurate and complete. Tested on `MaxOS X64`.
 
 ## Setup Development Environment (IntelliJ)
 - Ensure you have a `Java 11 SDK` distriubtion installed.
@@ -19,7 +19,7 @@ Reading of code may cause your eyes to bleed. Quality tested by pressing spaceba
 
 ## Build and run (IntelliJ)
 - Execute the `build` gradle task.
-- Run the `Main` runtime configuration task from the IDE or execute the `java --module-path **/javafx-sdk-19.0.2.1/lib --add-modules=javafx.controls,javafx.media -jar flappy-bird-1.0-SNAPSHOT.jar` terminal command from the `build/lib` directory, replacing `**` with the path you extracted the `JavaFX SDK` to. Ensure you are using the `Java 11` runtime.
+- Run the `Main` runtime configuration task from the IDE or execute the `java --module-path **/javafx-sdk-19.0.2.1/lib --add-modules=javafx.controls,javafx.media -jar flappy-bird-1.0-SNAPSHOT.jar` terminal command from the `build/libs` directory, replacing `**` with the path you extracted the `JavaFX SDK` to. Ensure you are using the `Java 11` runtime.
 
 ## Setup Development Environment (No IDE)
 - Ensure you have a `Java 11 SDK` distriubtion installed and that it is your default distribution.
